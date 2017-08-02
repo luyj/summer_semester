@@ -1,0 +1,64 @@
+﻿  ui.c
+e:\brick\brick\brick.h(10): warning C4005: 'MAX_LEVEL': macro redefinition
+  e:\brick\brick\brick.h(7): note: see previous definition of 'MAX_LEVEL'
+e:\brick\brick\ui.h(9): warning C4005: 'COLOR_BACKGROUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(9067): note: see previous definition of 'COLOR_BACKGROUND'
+e:\brick\brick\ui.c(301): warning C4133: 'function': incompatible types - from 'HDC' to 'HWND'
+e:\brick\brick\ui.c(335): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(343): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(352): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(369): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(370): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(391): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(392): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(393): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(394): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(417): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(418): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(419): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(420): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(442): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(443): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(444): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(445): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(467): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(468): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(469): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(470): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(489): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(490): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(491): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(492): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\ui.c(247): warning C4101: 'i': unreferenced local variable
+e:\brick\brick\ui.c(226): warning C4101: 'r': unreferenced local variable
+e:\brick\brick\ui.c(360): warning C4101: 'blife': unreferenced local variable
+e:\brick\brick\ui.c(757): warning C4101: 'rectNew': unreferenced local variable
+  judgement and operation.c
+e:\brick\brick\brick.h(10): warning C4005: 'MAX_LEVEL': macro redefinition
+  e:\brick\brick\brick.h(7): note: see previous definition of 'MAX_LEVEL'
+e:\brick\brick\ui.h(9): warning C4005: 'COLOR_BACKGROUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(9067): note: see previous definition of 'COLOR_BACKGROUND'
+e:\brick\brick\judgement and operation.c(36): warning C4244: '=': conversion from 'double' to 'BOOL', possible loss of data
+  Stack.c
+e:\brick\brick\brick.h(10): warning C4005: 'MAX_LEVEL': macro redefinition
+  e:\brick\brick\brick.h(7): note: see previous definition of 'MAX_LEVEL'
+e:\brick\brick\ui.h(9): warning C4005: 'COLOR_BACKGROUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(9067): note: see previous definition of 'COLOR_BACKGROUND'
+  LinkList.c
+e:\brick\brick\brick.h(10): warning C4005: 'MAX_LEVEL': macro redefinition
+  e:\brick\brick\brick.h(7): note: see previous definition of 'MAX_LEVEL'
+e:\brick\brick\ui.h(9): warning C4005: 'COLOR_BACKGROUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(9067): note: see previous definition of 'COLOR_BACKGROUND'
+  Brick.c
+e:\brick\brick\brick.h(10): warning C4005: 'MAX_LEVEL': macro redefinition
+  e:\brick\brick\brick.h(7): note: see previous definition of 'MAX_LEVEL'
+e:\brick\brick\ui.h(9): warning C4005: 'COLOR_BACKGROUND': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(9067): note: see previous definition of 'COLOR_BACKGROUND'
+e:\brick\brick\brick.c(24): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\brick\brick\brick.c(32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\brick\brick\brick.c(25): warning C4101: 'y': unreferenced local variable
+e:\brick\brick\brick.c(25): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+e:\brick\brick\judgement and operation.c(396): warning C4715: 'over': not all control paths return a value
+  brick.vcxproj -> E:\brick\Debug\brick.exe
+  brick.vcxproj -> E:\brick\Debug\brick.pdb (Partial PDB)
